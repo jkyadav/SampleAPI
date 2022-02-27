@@ -9,7 +9,7 @@ namespace SampleAPI.Web.Controllers
     {   
         [HttpGet]
         public string Get() {
-            return "Jitendra";
+            return "Jitendra Yadav";
         }
     }
 }
